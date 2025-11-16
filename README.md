@@ -2,6 +2,14 @@
 
 This project builds an end-to-end AI pipeline to identify **overlaps**, **contradictions**, and **missing links** across large collections of regulatory texts. It combines preprocessing, rule-based classification, clustering, SAS-based data engineering, and legal-domain language models to streamline regulatory analysis at scale.
 
+The **results** for our project can be found in the csv files:
+- contradictions_Risk_DepositRunOff.csv
+- contradictions_Risk_MaturityMismatch.csv
+- contradictions_Risk_ReputationImpact.csv
+- entailments_Risk_DepositRunOff.csv
+- entailments_Risk_MaturityMismatch.csv
+- entailments_Risk_ReputationImpact.csv
+
 ---
 
 ## 1. Preprocessing
