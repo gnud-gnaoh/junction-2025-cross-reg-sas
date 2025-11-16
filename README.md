@@ -10,6 +10,8 @@ The **results** for our project can be found in the csv files:
 - entailments_Risk_MaturityMismatch.csv
 - entailments_Risk_ReputationImpact.csv
 
+The main data pipeline code is done in the SAS Studio and the SAS code is generated from the .flw file. You need to have access to SAS Studio and our Libraries (databases) in order to run it unfortunately. There are still some Jupyter notebook and Python code that might be interesting to read. There are portions of Python code in the sascommands as well.
+
 ---
 
 ## 1. Preprocessing
