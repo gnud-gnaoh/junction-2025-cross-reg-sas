@@ -9,7 +9,7 @@ import random
 from transformers import pipeline
 from tqdm import tqdm
 
-# ---------- SAFE PRINT FOR WINDOWS UNICODE ----------
+# ---------- SAFE PRINT FOR WINDOWS UNICODE ---------
 def safe_print(text):
     try:
         print(text)
