@@ -89,7 +89,7 @@ For each similar pair:
 
 ## 5. Tools & Models
 
-- **SAS** for data ingestion, transformation, and pipeline automation  
+- **SAS** for data ingestion, TF-IDF, sentiment analysis, transformation, and pipeline automation
 - **TF-IDF** for feature extraction  
 - **K-Means** for clustering and noise removal  
 - **Keyword-based risk classification**  
